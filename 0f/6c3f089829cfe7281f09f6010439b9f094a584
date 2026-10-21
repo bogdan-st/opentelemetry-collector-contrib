@@ -1,0 +1,22 @@
+receiver/splunkhecreceiver/consumer_error_test.go
+  s_f5c57367e5f3ff::t_c24b60550633e0 1-103
+receiver/splunkhecreceiver/receiver.go
+  s_f5c57367e5f3ff::t_c24b60550633e0 24,319,559,570,586-590
+  s_f5c57367e5f3ff::t_1f83a8354d0395 591-592
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "0f6c3f089829cfe7281f09f6010439b9f094a584",
+  "prompts": {},
+  "sessions": {
+    "s_f5c57367e5f3ff": {
+      "agent_id": {
+        "tool": "github-copilot-cli",
+        "id": "95e15118-6cb5-4260-a425-9f9a026203d3",
+        "model": "unknown"
+      },
+      "human_author": "Bogdan Stancu <bstancu@adobe.com>"
+    }
+  }
+}
